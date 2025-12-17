@@ -1,0 +1,35 @@
+﻿Proprietary License
+
+Copyright (c) [2025] [Quadro Technologies]. All rights reserved.
+
+This software is the exclusive property of [Quadro Technologies].
+It is provided solely for use by authorized parties. Unauthorized copying,
+modification, distribution, sublicensing, or resale of this software,
+in whole or in part, is strictly prohibited.
+
+Permission is granted to install and use this software only for its
+intended purpose and only by the licensee authorized by [Quadro Technologies].
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THIS SOFTWARE PRODUCT.
+
+---------------------------------------------------
+3rd Party Dependencies and Licenses
+---------------------------------------------------
+
+This software uses third-party libraries/packages. Each of those is
+licensed under its own terms and conditions. You must comply with the
+licenses of those dependencies when using this software.
+
+1. ESC-POS-.NET – MIT License
+   License: https://github.com/lukevp/ESC-POS-.NET/blob/master/LICENSE
+
+2. MySql.Data – GPL 2.0 with FOSS exception
+   License: https://licenses.nuget.org/GPL-2.0-only
+   Exception: https://licenses.nuget.org/Universal-FOSS-exception-1.0
+   
